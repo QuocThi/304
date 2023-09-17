@@ -14,15 +14,15 @@ the demands of the various NFT projects springing forth.
 This repo is not maintained directly by Confio (although we can provide some code reviews and support),
 but rather by 4 highly active community members working on NFT projects of their own:
 
-* [alwin-peng](https://github.com/alwin-peng)
-* [ben2x4](https://github.com/ben2x4)
-* [Callum-A](https://github.com/Callum-A)
-* [ekez](https://github.com/ezekiiel)
-* [JakeHartnell](https://github.com/JakeHartnell)
-* [John Y](https://github.com/yubrew)
-* [orkunkl](https://github.com/orkunkl)
-* [shanev](https://github.com/shanev)
-* [the-frey](https://github.com/the-frey)
+- [alwin-peng](https://github.com/alwin-peng)
+- [ben2x4](https://github.com/ben2x4)
+- [Callum-A](https://github.com/Callum-A)
+- [ekez](https://github.com/ezekiiel)
+- [JakeHartnell](https://github.com/JakeHartnell)
+- [John Y](https://github.com/yubrew)
+- [orkunkl](https://github.com/orkunkl)
+- [shanev](https://github.com/shanev)
+- [the-frey](https://github.com/the-frey)
 
 ## Contributing
 
@@ -31,4 +31,3 @@ Additional maintainers can be added if they show commitment to the project.
 
 You can also join the `#nfts` channel on [CosmWasm Discord](https://docs.cosmwasm.com/chat)
 for more interactive discussion on these themes.
-
