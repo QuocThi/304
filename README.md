@@ -31,3 +31,5 @@ Additional maintainers can be added if they show commitment to the project.
 
 You can also join the `#nfts` channel on [CosmWasm Discord](https://docs.cosmwasm.com/chat)
 for more interactive discussion on these themes.
+
+End
